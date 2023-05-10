@@ -55,3 +55,5 @@
 
 ![Other way to use IF statement to achieve the same result](https://github.com/DqpM/Test/assets/133138864/340ee819-c780-4f8f-b417-80d0297d2be9)
 
+### Using SWITCH function to group. Note, with SWITCH function it is easier to group when you have many categories/groups (for example 5+)
+![Using SWITCH function to group](https://github.com/DqpM/Test/assets/133138864/0963a7e6-5994-426a-ad45-9bf71006d2c0)
