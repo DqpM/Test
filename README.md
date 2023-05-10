@@ -29,8 +29,16 @@
 ### Using CALCULATE and CONTAINSTRING function to find rows which contain the string Chocolate (calculated measure)
 ![Using CALCULATE and CONTAINSTRING function to find rows whcih contain the string Chocolate](https://github.com/DqpM/Test/assets/133138864/7e4ece53-fcdd-42c4-9b51-0c73d0d4ea36)
 
+![image](https://github.com/DqpM/Test/assets/133138864/07d1fafe-9e01-4b41-9861-78fc066a9d83)
+
 ### Using CALCULATE function to aggregate and filter rows to find number of rows where the product name is exactly "Chocolate Chip" and where the Units sold are more than 500
 ![Using CALCULATE function and filters to find number of rows where the product name is Chocolate Chip and where the Units sold are more than 500](https://github.com/DqpM/Test/assets/133138864/2ba479d3-caf0-469a-aea0-fb2c40babf8f)
 
+![image](https://github.com/DqpM/Test/assets/133138864/62e4c9aa-3cee-48ba-83ba-ff1e9717a50c)
+
+
 ### Using CALCULATE and CONTAINSSTRING functions to find number of rows where units sold are more than 500 and Product column has any products that contain string  "Chocolate"
 ![Using CALCULATE and CONTAINSSTRING functions to find number of rows where units sold are more than 500 and Product column has any products that contain name Chocolate](https://github.com/DqpM/Test/assets/133138864/0abf5d50-2438-4dd3-8441-254bddf18b60)
+
+![image](https://github.com/DqpM/Test/assets/133138864/e2fd6255-b7e7-499e-ac5f-1f3a4c6eb32a)
+
