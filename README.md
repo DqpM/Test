@@ -51,3 +51,7 @@
 ### IF function to create a calculated column that depending on the Revenue size will show which group does the order fall into (i.e Small, Medium or Big)
 ![IF function to create a calculated column that depending on the Revenue size will show which group does the order fall into (i e Small, Medium or Big)](https://github.com/DqpM/Test/assets/133138864/37e8b311-affa-4939-b55a-195424c485d4)
 
+#### *other way to achieve the same result:*
+
+![Other way to use IF statement to achieve the same result](https://github.com/DqpM/Test/assets/133138864/340ee819-c780-4f8f-b417-80d0297d2be9)
+
