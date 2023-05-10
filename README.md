@@ -42,3 +42,12 @@
 
 ![image](https://github.com/DqpM/Test/assets/133138864/e2fd6255-b7e7-499e-ac5f-1f3a4c6eb32a)
 
+### MAX formula to find the biggest number (Maximum) in the Revenue Column
+![Formula to find the biggest number (Maximum) in the Revenue Column](https://github.com/DqpM/Test/assets/133138864/314e2145-295a-489c-9f1c-2c1bee9e9b3b)
+
+![image](https://github.com/DqpM/Test/assets/133138864/c8ba6f39-1313-45c2-9752-b5297a5f24ca)
+
+
+### IF function to create a calculated column that depending on the Revenue size will show which group does the order fall into (i.e Small, Medium or Big)
+![IF function to create a calculated column that depending on the Revenue size will show which group does the order fall into (i e Small, Medium or Big)](https://github.com/DqpM/Test/assets/133138864/37e8b311-affa-4939-b55a-195424c485d4)
+
