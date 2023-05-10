@@ -13,3 +13,17 @@
 
 ### Calculated column (profit)
 ![Calculated column (profit)](https://github.com/DqpM/Test/assets/133138864/27819ba0-67b0-4d04-984d-300c0fd7d0a4)
+
+### Distinct customers number
+![Distinct customers number](https://github.com/DqpM/Test/assets/133138864/9b822f2b-f646-49df-9dea-6fbbbb2e8d12)
+
+### Day of the week (calculated column)
+![Day of the week (calculated column)](https://github.com/DqpM/Test/assets/133138864/7063f79c-9985-47af-9f29-83b3206d668b)
+
+### Find specific word "Chocolate" (calculated column). If found, then put 1 in the row, if not found then put 0.
+![Find word Chocolate](https://github.com/DqpM/Test/assets/133138864/35620017-2b71-4fe4-bf01-47f91df6e689)
+
+### IF function to find a Chocolate based on another calculated column (in this case "Find Chocolate" is the calculated column name that we use in IF formula)
+![IF function to find a Chocolate based on another calculated column](https://github.com/DqpM/Test/assets/133138864/70dfa028-4e31-456d-a05e-8b06d3ba3e6e)
+
+
