@@ -63,3 +63,11 @@
 
 ![image](https://github.com/DqpM/Test/assets/133138864/55d6b4ad-d70d-4e1e-a07e-ab5c3cc149ab)
 
+### Using CALCULATE function to calculate total sales (Revenue) for all orders that have grouping of "Big"
+![Using CALCULATE function to calculate total sales for all orders that have grouping of Big](https://github.com/DqpM/Test/assets/133138864/22eaa53f-c546-447d-92bc-4280422d0211)
+
+![image](https://github.com/DqpM/Test/assets/133138864/bd6af8a1-e89f-44f1-8c75-a558b69da51a)
+
+#### *Note: You can also double check if the above formula was correct by going to your visualizations and either using the filter, to select only the "Big" category in the filter, or you can put the "Grouping of order sizes" in Rows field and "Revenue" in values field and look if the revenue for "Big" category is the same as the revenue from the DAX formula*
+
+![image](https://github.com/DqpM/Test/assets/133138864/f1100320-1774-470a-906b-95b8767c5649)
